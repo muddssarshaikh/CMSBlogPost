@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  mcare21_api:
+    image: ${DOCKER_REGISTRY-}mcare21api
+    build:
+      context: .
+      dockerfile: Mcare21_Api/Dockerfile
