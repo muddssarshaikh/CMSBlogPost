@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DepartmentMaster/bin/Debug/net7.0
+/DepartmentMaster/obj
+/DepartmentMaster_Api/bin/Debug/net7.0
+/DepartmentMaster_Api/obj
+/DepartmentMaster_Api_Contracts/bin/Debug/net7.0
+/DepartmentMaster_Api_Contracts/obj
